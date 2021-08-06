@@ -1,0 +1,19 @@
+.works {
+    flex-grow: 1;
+  }
+  
+  .works h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+.employer {
+    font-weight: bold;
+}
+.role {
+    font-style: italic;
+}
+
+li {
+    margin-left: 15px;
+}
